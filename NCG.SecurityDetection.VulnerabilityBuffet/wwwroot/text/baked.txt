@@ -1,0 +1,1 @@
+﻿Baked products are products that you bake. But not fruits or sweets. Those are separate categories.

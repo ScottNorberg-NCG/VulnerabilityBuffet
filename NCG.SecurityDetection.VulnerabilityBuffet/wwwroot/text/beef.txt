@@ -1,0 +1,1 @@
+﻿Beef comes from cows. BeEF is a XSS framework. It's best not to get the two confused.
